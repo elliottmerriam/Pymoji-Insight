@@ -2,7 +2,9 @@ This repo contains Emoji_Diversifier_Whirlscape_Insight.ipynb, a READ ONLY porti
 
 This project was conducted in collaboration with Whirlscape, Inc. to increase the diversity of results displayed by their emoji recommender app, Dango (see https://play.google.com/store/apps/details?id=co.dango.emoji.gif&hl=en).
 
-For confidentiality reasons, this code is not complete, and no data files are provided.  The codea and accompanying comments are intended to demonstrate how certain methods were performed.     
+For confidentiality reasons, this code is not complete, and no data files are provided.  The code and accompanying comments are intended to demonstrate how certain methods were performed.   
+
+Scroll to the bottom of the .ipynb to compare original and reranked menus of emoji based on tweet inputs.
 
 Overview:  
 
